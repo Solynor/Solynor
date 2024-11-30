@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub! Passionate about **Hyperliquid**, the next-generation DEX, I'm here to **contribute and collaborate** with the community on innovative projects in decentralized finance.
+
+🔭 I'm currently working on initiatives related to Hyperliquid.  
+🌱 I'm continually learning new technologies to enhance my skills.  
+👯 I'm looking to collaborate with engaged community members.  
+💬 Feel free to contact me to discuss projects or ideas.  
+📫 You can reach me on my [X](https://x.com/solynor_finance).    
+
+Looking forward to collaborating with you!
